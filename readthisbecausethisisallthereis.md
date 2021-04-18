@@ -1,10 +1,10 @@
 # macOS-Official-Mac-Downloads
-# Download different versions of macOS via official Apple directories. 
-# Original Author: u/ChrisWayg
-# From: r/hackintosh
+Download different versions of macOS via official Apple directories. 
+Original Author: u/ChrisWayg
+From: r/hackintosh
 
-# When trying to download various versions of macOS (including older ones), I noticed, 
-# that it did not always work as expected. So i took some notes and put together this guide for reference.
+When trying to download various versions of macOS (including older ones), I noticed, 
+that it did not always work as expected. So i took some notes and put together this guide for reference.
 
 Via App Store links or Apple direct download links.
 You can download HIGH SIERRA, MOJAVE and CATALINA via App Store links:
