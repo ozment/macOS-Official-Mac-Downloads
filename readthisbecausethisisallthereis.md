@@ -84,7 +84,7 @@ You can download HIGH SIERRA, MOJAVE and CATALINA via App Store links:
 ## gibMacOS for Downloading macOS Recovery Image or Creating a Full Installer:
 	https://github.com/corpnewt/gibMacOS
 
-The gibMacOS python script runs on Windows, Linux or macOS and is used in this Guide:
+## The gibMacOS python script runs on Windows, Linux or macOS and is used in this Guide:
 
 	Title: Downloading the Recovery HD image - /r/Hackintosh macOS Internet Install
 	URL: https://internet-install.gitbook.io/macos-internet-install/preparing-your-installer.../untitled-1
@@ -151,16 +151,11 @@ The App downloads the full macOS installer from: swcdn.apple.com (checked with m
     
   <IMG>https://preview.redd.it/sf912vjzwt641.png?width=677&format=png&auto=webp&s=1d113d886c1fb599edad6882107762f83ad6533f</IMG>
        
-
-    Related Links:
+## Related Links:
 
         Combo Updates for old versions (example): 
         https://support.apple.com/downloads/mavericks
 
         How to download old Mac OS X and macOS versions:
         https://www.macworld.co.uk/how-to/mac-software/download-old-os-x-3629363/
-
-##---------------------------------------ORIGINAL--------------------------------------------------|
-## How to download macOS from Apple's official download locations (3 methods)
-## https://www.reddit.com/r/hackintosh/comments/efjy5g/how_to_download_macos_from_apples_official/
-##--------------------------------------------------------------------------------------------------|
+##
