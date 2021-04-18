@@ -1,11 +1,15 @@
 # macOS-Official-Mac-Downloads
+
 	Download different versions of macOS via official Apple directories. 
+	When trying to download various versions of macOS (including older ones), I noticed, 
+	that it did not always work as expected. So i took some notes and put together this guide for reference.
+	
 # Credit
+
 	Original Author: u/ChrisWayg
 	From: r/hackintosh
-
-When trying to download various versions of macOS (including older ones), I noticed, 
-that it did not always work as expected. So i took some notes and put together this guide for reference.
+	
+# macOS - Catalina, Mojave, & High Sierra
 
 	Via App Store links or Apple direct download links.
 	You can download HIGH SIERRA, MOJAVE and CATALINA via App Store links:
@@ -14,6 +18,7 @@ that it did not always work as expected. So i took some notes and put together t
 
     How to upgrade to macOS Catalina - Apple Support:
         https://support.apple.com/en-us/HT201475
+	
     Get macOS Catalina - App Store URL:
         https://itunes.apple.com/us/app/macos-catalina/id1466841314?ls=1&mt=12
 
@@ -21,6 +26,7 @@ that it did not always work as expected. So i took some notes and put together t
 
     HOW TO upgrade to macOS Mojave - Apple Support:
         https://support.apple.com/en-us/HT210190
+	
     APP STORE LINK - Get macOS Mojave:
         https://itunes.apple.com/us/app/macos-mojave/id1398502828?ls=1&mt=12
         
@@ -28,6 +34,7 @@ that it did not always work as expected. So i took some notes and put together t
 
     HOW TO upgrade to macOS High Sierra - Apple Support:
         https://support.apple.com/en-us/HT208969
+	
     APP STORE LINK - Get macOS High Sierra:
        	https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?ls=1&mt=12
 
@@ -41,8 +48,10 @@ that it did not always work as expected. So i took some notes and put together t
 
     HOW TO upgrade to macOS Sierra - Apple Support:
     https://support.apple.com/en-us/HT208202
+    
     APP STORE LINK - macOS Sierra: 
     https://apps.apple.com/ph/app/macos-sierra/id1127487414?mt=12
+    
     DIRECT DOWNLOAD LINK - macOS Sierra: 
     http://updates-http.cdn-apple.com/2019/cert/061-39476-20191023-48f365f4-0015-4c41-9f44-39d3d2aca067/InstallOS.dmg        
 
