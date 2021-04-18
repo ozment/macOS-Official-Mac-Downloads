@@ -1,15 +1,13 @@
 # macOS-Official-Mac-Downloads
-# Download different versions of macOS via official Apple directories.
-# Credit 
-# Author: u/ChrisWayg
+# Download different versions of macOS via official Apple directories. 
+# Original Author: u/ChrisWayg
 # From: r/hackintosh
 
 # When trying to download various versions of macOS (including older ones), I noticed, 
 # that it did not always work as expected. So i took some notes and put together this guide for reference.
 
-Via App Store links or Apple direct download links:
-
--> You can download HIGH SIERRA, MOJAVE and CATALINA via App Store links:
+Via App Store links or Apple direct download links.
+You can download HIGH SIERRA, MOJAVE and CATALINA via App Store links:
 
 # macOS Catalina ------------------->
 
@@ -40,55 +38,61 @@ Via App Store links or Apple direct download links:
 # macOS Sierra ------------------------------->
 
     HOW TO upgrade to macOS Sierra - Apple Support:
-        	https://support.apple.com/en-us/HT208202
+    https://support.apple.com/en-us/HT208202
     APP STORE LINK - macOS Sierra: 
-					https://apps.apple.com/ph/app/macos-sierra/id1127487414?mt=12
+    https://apps.apple.com/ph/app/macos-sierra/id1127487414?mt=12
     DIRECT DOWNLOAD LINK - macOS Sierra: 
-					http://updates-http.cdn-apple.com/2019/cert/061-39476-20191023-48f365f4-0015-4c41-9f44-39d3d2aca067/InstallOS.dmg        
-		- The installer will copy Install macOS Sierra into /Applications
+    http://updates-http.cdn-apple.com/2019/cert/061-39476-20191023-48f365f4-0015-4c41-9f44-39d3d2aca067/InstallOS.dmg        
+
+	- The installer will copy Install macOS Sierra into /Applications
 
 # OS X El Capitan ------------------------------>
 
     HOW TO upgrade to OS X El Capitan - Apple Support:
-
+    https://support.apple.com/en-us/HT206886
+    
     APP STORE LINK - Get OS X El Capitan
+    https://apps.apple.com/ph/app/macos-sierra/id1127487414?mt=12
 
     DIRECT LINK - Download OS X El Capitan
-        
-    - The installer will copy Install OS X El Capitan into /Applications
+    http://updates-http.cdn-apple.com/2019/cert/061-41424-20191024-218af9ec-cf50-4516-9011-228c78eda3d2/InstallMacOSX.dmg
+   
+   	- The installer will copy Install OS X El Capitan into /Applications
 
 # OS X Yosemite ---------------------------------->
 
     HOW TO upgrade to OS X Yosemite - Apple Support
+    https://support.apple.com/en-us/HT210717
 
     DIRECT LINK - Download OS X Yosemite
+    http://updates-http.cdn-apple.com/2019/cert/061-41343-20191023-02465f92-3ab5-4c92-bfe2-b725447a070d/InstallMacOSX.dmg
 
     - The installer will copy Install OS X Yosemite into /Applications
 
 
-## For even OLDER VERSIONS try here ----------------> 
-Title: How can I download an older version of OS X/macOS? - Ask Different
-URL: https://apple.stackexchange.com/questions/309399/how-can-i-download-an-older-version-of-os-x-macos
----------------------------------------------------------------------------------------------------------->
-
-## Some of the problems relating to downloading macOS have been covered in this article ------->
-Title: How to download macOS Catalina, Mojave or High Sierra Full Installers
-URL: https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/
------------------------------------------------------------------------------------------------------->
+## For even OLDER VERSIONS try here:
+	Title: How can I download an older version of OS X/macOS? - Ask Different
+	URL: https://apple.stackexchange.com/questions/309399/how-can-i-download-an-older-version-of-os-x-macos
 
 
+## Some of the problems relating to downloading macOS have been covered in this article:
+	Title: How to download macOS Catalina, Mojave or High Sierra Full Installers
+	URL: https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/
 
-## gibMacOS for Downloading macOS Recovery Image or Creating a Full Installer ------------------------------------------>
-# https://github.com/corpnewt/gibMacOS
+
+
+## gibMacOS for Downloading macOS Recovery Image or Creating a Full Installer:
+	https://github.com/corpnewt/gibMacOS
 
 The gibMacOS python script runs on Windows, Linux or macOS and is used in this Guide:
 
-Title: Downloading the Recovery HD image - /r/Hackintosh macOS Internet Install - 
-URL:   https://internet-install.gitbook.io/macos-internet-install/preparing-your-installer.../untitled-1
+	Title: Downloading the Recovery HD image - /r/Hackintosh macOS Internet Install
+	URL: https://internet-install.gitbook.io/macos-internet-install/preparing-your-installer.../untitled-1
 
-For example to get the Yosemite Recovery Image run in the Terminal ./gibMacOS.command --recovery -v 10.10 -m 10.10 (replace 10.10 with the version you need: 10.09 to 10.15)
+	For example to get the Yosemite Recovery Image run in the Terminal ./gibMacOS.command --recovery -v 10.10 -m 10.10 (replace 10.10 with the version you need: 		(10.09 to 10.15)
 
-gibMacOS has a script to create the whole installer from the parts downloaded. You can only get the Full Installer of the latest supported OSes by Apple (like High Sierra, Mojave and Catalina).
+	gibMacOS has a script to create the whole installer from the parts downloaded. 
+	You can only get the Full Installer of the latest supported OS's by Apple (like High Sierra, Mojave and Catalina).
 
     ~ get the gibMacOS script
 
